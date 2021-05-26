@@ -1,1 +1,1 @@
-# Artistic-Low-Poly-Rendering
+# Artistic Low Poly Rendering for Images
